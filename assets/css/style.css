@@ -33,6 +33,7 @@ header{
 .menu nav ul,
 .menu nav ul li{
     list-style-type: none;
+    display: none;
 }
 
 
